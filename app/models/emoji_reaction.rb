@@ -36,6 +36,8 @@ class EmojiReaction < ApplicationRecord
     heart: "\u{2764 FE0F}",
     party_popper: "\u{1F389}",
     rocket: "\u{1F680}",
+    broken_heart: "\u{1F494}",
+    handshake: "\u{1F91D}",
     eyes: "\u{1F440}"
   }.freeze
 
